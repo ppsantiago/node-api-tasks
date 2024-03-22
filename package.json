@@ -1,0 +1,22 @@
+{
+  "name": "task-server",
+  "version": "0.0.1",
+  "description": "BackEnd Task",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "ppsantiago",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-node": "^4.1.0",
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "mongoose": "^8.2.3"
+  }
+}

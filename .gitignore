@@ -1,0 +1,7 @@
+.env
+node_modules/
+mongo/
+.eslintrc.json
+.eslintrc.yaml
+.eslintrc.json-
+.eslintrc.yaml-
